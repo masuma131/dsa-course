@@ -1,5 +1,5 @@
 # DSA Course
-
+Welcome to our course on Data Structures and Algorithms using C++. This course is designed to deepen your understanding of how data is structured and manipulated in programming.
 # DSA Course Curriculum
 
 **1. Course Introduction and Setup**
