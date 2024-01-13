@@ -1,3 +1,5 @@
+# DSA Course
+
 # DSA Course Curriculum
 
 **1. Course Introduction and Setup**
