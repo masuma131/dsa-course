@@ -3,10 +3,10 @@
 # DSA Course Curriculum
 **1. Course Introduction and Setup**
 
-Introduction to the course, its objectives, and outcomes.
-Setting up the C++ development environment.
-Brief overview of C++ basics (assuming viewers understand C++).
-Introduction to course structure and content delivery methods.
+* Introduction to the course, its objectives, and outcomes.
+* Setting up the C++ development environment.
+* Brief overview of C++ basics (assuming viewers understand C++).
+* Introduction to course structure and content delivery methods.
 
 **2. Understanding Complexity and Big O Notation**
 
