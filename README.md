@@ -72,3 +72,7 @@ Welcome to our course on Data Structures and Algorithms using C++. This course i
 * Recap of the course.
 * Additional resources and directions for further learning.
 * Encouragement to practice and explore more complex topics.
+
+# Video 1: Course Introduction and Setup
+Visual Studio Installation Link: https://visualstudio.microsoft.com/downloads/
+Download community edition.
